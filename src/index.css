@@ -1,0 +1,20 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.box {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: blueviolet;
+  gap: 2rem;
+}
+h1:hover {
+  color: white;
+  text-shadow: 0 0 10px white;
+  transition: all 0.5s;
+}
