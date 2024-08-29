@@ -12,7 +12,7 @@ const Card = () => {
     <div
       id="quote-box"
       className="card"
-      style={{ minWidth: " 26rem", maxWidth: "30rem" }}
+      style={{ minWidth: " 26rem", maxWidth: "31rem" }}
     >
       <div className="card-body">
         <h5 id="author" className="card-title">
